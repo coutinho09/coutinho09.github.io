@@ -1515,7 +1515,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #54e732;
+  background: #c4ffee;
 }
 .sidebar-nav {
   margin: 0 0 20px;
@@ -2275,4 +2275,9 @@ body {
   .post-body {
     text-align: justify;
   }
+}
+.scroll-sidebar {
+  position: fixed;
+  top: 0px;
+  margin-top: 0px !important;
 }
